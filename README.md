@@ -12,7 +12,7 @@
 I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
 - :telescope: I live in St. Petersburg
-- :older_man: 23 years old
+- :older_man: 25 years old
 - :zap: Looking for work on large projects
 
 ---
